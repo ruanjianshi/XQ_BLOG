@@ -48,7 +48,7 @@
             // 小屏设备下合并导航栏到侧边栏
             mergeNavbar: true,
             //切换页面后是否自动跳转到页面顶部
-            //auto2top:true,
+            auto2top:true,
             //文档加载的根路径，可以是二级路径或者是其他域名的路径
             //basePath:'/',
             /* // 直接渲染其他域名的文档
@@ -158,11 +158,7 @@
                 function(hook, vm) {
                 hook.beforeEach(function(html) {
                     var url =
-<<<<<<< HEAD
-                    'https://github.com/ruanjianshi/XQ_BLOG/blob/master/README.md' +
-=======
-                    'https://github.com/ruanjianshi/XQ_BLOG/edit/master' +
->>>>>>> da544615ac76f6b30c82c3813a052a3a0a3a7c6e
+                    'https://github.com/ruanjianshi/XQ_BLOG/blob/master/' +
                     vm.route.file;
                     var editHtml = '[📝 EDIT DOCUMENT](' + url + ')\n';
 

@@ -1,12 +1,29 @@
 <!-- _coverpage.md -->
 
-# Docsify使用指南 
+<!-- 背景图片 -->
 
-> 💪Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
-
- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+<div style="background-color: #f0f0f0; display: inline-block; padding: 10px;">
+    <img src="_media/人工智能.png" alt="人工智能" width="300" height="200">
+</div>
 
 
-[开始使用 Let Go](/README.md)
+
+# XQ的研究生指南 
+
+> 💪采用Docsify与Typora所设计的轻量化日常科研记录，研究方向：机器人、机器视觉、单片机、人工智能以及大模型训练。
+
+ 便携化办公、学习
+- ROS2 RVIZ GAZEBO RQT TF
+- STM32 FREERTOS
+- YOLO TRANSFORM 
+- MACHINE LEARNING
+- NEURAL NETWORK
+
+[GitHub](https://github.com/ruanjianshi/)
+[求学之路 Let Go](/README.md)
+
+
+
+<!-- 背景色 -->
+
+<!--[color](#f0f0f0)-->

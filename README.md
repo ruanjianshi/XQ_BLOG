@@ -3,9 +3,9 @@
 > Postgraduate study and research career project documents
 
 
-# 欢迎使用 Docsify
+# 欢迎来到XQ博客网站
+>这里是一个按钮示例：后续考虑增添功能。
 
-这里是一个按钮示例：
 
 <button-counter></button-counter>
 
@@ -15,6 +15,7 @@
   {{ count }}
   <button @click="count += 1">+</button>
 </p>
+
 
 <div id="counter">
   <button @click="count -= 1">-</button>
@@ -28,9 +29,9 @@
 
 Hello!
 
-#### **French**
+#### **chinese**
 
-Bonjour!
+你好
 
 #### **Italian**
 

@@ -1,10 +1,5 @@
 <!-- _sidebar.md -->
 
-* Typora+Docsify使用指南
-  * [Docsify使用指南](/ProjectDocs/Docsify使用指南.md) <!--注意这里是相对路径-->
-  * [Typora+Docsify快速入门](/ProjectDocs/Typora+Docsify快速入门.md)
-* Docsify部署
-  * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
 * C++
   * [C++语法](/C++语法/C++复查.md)
   * C++项目
@@ -23,7 +18,17 @@
       * [敌机出场](/PYTHON语法/飞机大战/敌机出场.md)
       * [碰撞检测](/PYTHON语法/飞机大战/碰撞检测.md)
       * [项目实战](/PYTHON语法/飞机大战/项目实战%20——%20飞机大战.md)
-    * 坦克大战
-      * [代码](/PYTHON语法/坦克大战/代码/tank25.py)
-      * [资料](/PYTHON语法/坦克大战/资料/坦克大战游戏开发.pdf)
+    * 坦克大战 
+      * [代码](/PYTHON语法/坦克大战/代码/tank.md)
+      * [资料](/PYTHON语法/坦克大战/资料/resource.md)
+* ROS2
+* STM32
+* FREERTOS
+* 机器学习
+* 深度学习
+* 神经网络
+* 算法结构
+* 机器视觉
+* 图像处理
+* 学术论文
   
